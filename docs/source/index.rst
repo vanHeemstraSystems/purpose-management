@@ -1,5 +1,5 @@
 Welcome to Purpose Management Documentation
-===========================================
+============================================
 
 .. toctree::
    :maxdepth: 2
