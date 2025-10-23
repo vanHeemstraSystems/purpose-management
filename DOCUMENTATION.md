@@ -1,6 +1,6 @@
 # Documentation
 
-Read the Docs: [GITHUB-ORGANIZATION-REPOSITORY-NAME](https://GITHUB-ORGANIZATION-REPOSITORY-NAME.readthedocs.io/en/latest/)
+Read the Docs: [vanHeemstraSystems-purpose-management](https://vanHeemstraSystems-purpose-management.readthedocs.io/en/latest/)
 
 ## 100 - Install ReadTheDocs
 
@@ -79,4 +79,4 @@ On [ReadTheDocs](https://readthedocs.org/), after logging in navigate to your Gi
 
 ## 1000 - View the Documentation
 
-Visit https://GITHUB-ORGANIZATION-REPOSITORY-NAME.readthedocs.io/en/latest/
+Visit https://vanHeemstraSystems-purpose-management.readthedocs.io/en/latest/
