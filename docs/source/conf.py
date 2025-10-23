@@ -1,8 +1,8 @@
 # Configuration file for the Sphinx documentation builder.
 
 # -- Project information -----------------------------------------------------
-project = 'Your Project Name'
-copyright = '2025 - present, GITHUB-ORGANIZATION'
+project = 'Purpose Management'
+copyright = '2025 - present, van Heemstra Systems'
 author = 'AUTHOR'
 
 release = '0.1'
