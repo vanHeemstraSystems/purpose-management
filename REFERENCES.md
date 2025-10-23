@@ -3,6 +3,7 @@
 - [Architecting Intelligent Software: Crafting Robust and Scalable AI Systems for Modern Software Development](https://www.packtpub.com/en-us/product/architecting-intelligent-software-9781804619469)
 - [Building React Apps in an Nx Monorepo](https://nx.dev/getting-started/tutorials/react-monorepo-tutorial)
 - [Claude MPM User Documentation](https://github.com/vanHeemstraSystems/claude-mpm/tree/main/docs/user)
+- [Inflection Points: How to Work and Live with Purpose](https://www.amazon.com/Inflection-Points-Work-Live-Purpose-ebook/dp/B0B1T7RKZW/ref=tmm_kin_swatch_0)
 - [Quickstart for remote Claude Code agents on Depot](https://depot.dev/docs/agents/claude-code/quickstart)
 - [RepoToText](https://github.com/GeekyGhost/RepoToText)
 - [Slides](https://github.com/maaslalani/slides)
